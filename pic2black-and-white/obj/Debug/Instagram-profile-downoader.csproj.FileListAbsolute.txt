@@ -1,0 +1,13 @@
+C:\Users\Mazdakpak\source\repos\pic2black-and-white\pic2black-and-white\bin\Debug\pic2black-and-white.exe.config
+C:\Users\Mazdakpak\source\repos\pic2black-and-white\pic2black-and-white\bin\Debug\pic2black-and-white.exe
+C:\Users\Mazdakpak\source\repos\pic2black-and-white\pic2black-and-white\bin\Debug\pic2black-and-white.pdb
+C:\Users\Mazdakpak\source\repos\pic2black-and-white\pic2black-and-white\bin\Debug\MaterialSkin.dll
+C:\Users\Mazdakpak\source\repos\pic2black-and-white\pic2black-and-white\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mazdakpak\source\repos\pic2black-and-white\pic2black-and-white\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mazdakpak\source\repos\pic2black-and-white\pic2black-and-white\obj\Debug\pic2black_and_white.Form1.resources
+C:\Users\Mazdakpak\source\repos\pic2black-and-white\pic2black-and-white\obj\Debug\pic2black_and_white.Properties.Resources.resources
+C:\Users\Mazdakpak\source\repos\pic2black-and-white\pic2black-and-white\obj\Debug\Instagram-profile-downoader.csproj.GenerateResource.cache
+C:\Users\Mazdakpak\source\repos\pic2black-and-white\pic2black-and-white\obj\Debug\Instagram-profile-downoader.csproj.CoreCompileInputs.cache
+C:\Users\Mazdakpak\source\repos\pic2black-and-white\pic2black-and-white\obj\Debug\Instagram-profile-downoader.csproj.CopyComplete
+C:\Users\Mazdakpak\source\repos\pic2black-and-white\pic2black-and-white\obj\Debug\pic2black-and-white.exe
+C:\Users\Mazdakpak\source\repos\pic2black-and-white\pic2black-and-white\obj\Debug\pic2black-and-white.pdb
